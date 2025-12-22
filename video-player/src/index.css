@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+.video-wrapper {
+  margin: 20px 0;
+}
+.video-info {
+  margin-bottom: 10px;
+}
+.controls, .navigation-controls {
+  margin: 10px 0;
+}
